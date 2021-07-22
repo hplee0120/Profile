@@ -30,7 +30,6 @@ proxy-groups:
       - DIRECT
 
 rule-providers:
-
   Unbreak:
     type: http
     behavior: classical
