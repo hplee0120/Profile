@@ -56,7 +56,7 @@ rule-providers:
 
 rules:
   - RULE-SET,Unbreak,DIRECT
-  - RULE-SET,Streaming,DIRECT
+  - RULE-SET,Streaming,PROXY
   - RULE-SET,Global,PROXY
   - RULE-SET,China,DIRECT
 
